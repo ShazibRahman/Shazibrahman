@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazibrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shazibrahman" /> </p>
 
-- 🌱 I’m currently learning **React js , Typescript**
+- 🌱 I’m currently learning **Nestjs , Typescript**
 
 - 📫 How to reach me **shazibrahman@outlook.com**
 
